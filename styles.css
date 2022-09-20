@@ -1,0 +1,22 @@
+body {
+  background-color: #FDEEDC;
+}
+
+h1{
+  color: #E38B29;
+}
+
+a{
+  color: #E38B29;
+}
+.contact_box{
+  line-height: 2 ;
+}
+.CV_PFP{
+  height: 250px;
+  width: auto;
+}
+p{
+  font-size: 30px
+
+}
